@@ -1,2 +1,2 @@
 # Voter-Appln
-Online platform for voter application
+ Online platform for voter application
